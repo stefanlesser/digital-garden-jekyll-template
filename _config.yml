@@ -13,13 +13,13 @@ plugins:
   - jekyll-last-modified-at
 
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir:     _sass
+  style:        :compressed
 
 collections:
   notes:
-    output: true
-    permalink: /:slug
+    output:     true
+    permalink:  /:slug
 
 defaults:
   - scope:
